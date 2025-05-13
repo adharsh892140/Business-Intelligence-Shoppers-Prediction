@@ -1,19 +1,25 @@
- Business-Intelligence-Shoppers-Prediction
+# Business-Intelligence-Shoppers-Prediction
 This Business Intelligence project focuses on classifying online shoppers as Purchasers or Non-Purchasers using machine learning.  This project analyzes online shoppers behavior to predict whether they will make a purchase or not. Multiple machine learning models were used, with Gradient Boosting performing the best. 
-📂Project Structure
-online-shoppers-intention/ ├── data/ # Raw and cleaned data files ├── notebooks/ # Jupyter notebooks with EDA, modeling, and results ├── outputs/ # Graphs, charts, reports, accuracy results ├── requirements.txt # Project dependencies ├── README.md # Project description and usage └── .gitignore
-📊 Data Set
+##📂Project Structure
+'online-shoppers-intentention/'
+'data/' - Raw and cleaned data files.
+'notebooks/' - Jupyter notebooks with EDA, modelling, and results.
+'outputs/' - Graphs, charts, reports, accuracy results.
+'requirements.txt' - Project dependencies.
+'README.md' - Project description and usage.
+'.gitignore' - Git ignore file.
+##📊 Data Set
 • Source:UCI Machine Learning Repository 
 https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 • Target: Revenue - To predict whether an online shopper will make a pourchase based on their browsing behavior and session data. 
-📌 Objectives 
+##📌 Objectives 
 • To analyze online shoppers behavior and distinguish between Purchasers and Non-Purchasers.
 • To apply and compare multiple supervised machine learning models for predicting purchase intent.
 • To identify the most effective model based on performance metrics.
 • To improve model performance through proper feature encoding and scaling.
 • To explore hidden patterns in user data using clustering techniques.
 • To provide actionable insights that support targeted marketing and customer segmentation in e-commerce. 
-🛠 Tools Used 
+##🛠 Tools Used 
 • Jupyter
 • Pandas
 • NumPy
@@ -21,7 +27,7 @@ https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dat
 • Scikit- learn
 • LightGBM 
 • Scipy
-💡 Methods Used 
+##💡 Methods Used 
 • Data Preprocessing 
 • Exploratory Data Analysis(EDA)
 • Supervised Learning Models : Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, Gradient Boosting, LightGBM 
