@@ -56,4 +56,4 @@ jupyter notebook
 References 
 UCI Machine Learning Repository 
 Scikit-learn , LightGBM, Pandas, NumPy, Matplotlib, Seaborn Documentations. 
-📚🖊 -[Adharsh S](https://github.com/adharsh s) 
+📚🖊 -[Adharsh S](https://github.com/adharshs) 
